@@ -1,4 +1,4 @@
-Hello There,
+### Hello There,
 I am Mrugesh Prajapati.
 I have created this short project for Antarctica Global's code test(Though some work is pending.)
 I have used HTML, CSS, JavaScript, React-Redux, SASS compiler.
