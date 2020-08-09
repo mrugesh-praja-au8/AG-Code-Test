@@ -1,0 +1,29 @@
+.ut {
+  padding: 25px 0;
+  overflow: hidden;
+  &__title {
+    color: #898989;
+    padding-bottom: 22px;
+  }
+  &__table {
+    display: flex;
+    overflow: auto;
+    & table {
+      width: 100%;
+      border-collapse: collapse;
+      box-shadow: 0 0 8px 1px #bdb4b4;
+      border-radius: 10px;
+      & thead tr th {
+        padding: 12px;
+        color: #8a8a8a;
+      }
+      & tbody {
+        text-align: center;
+        & tr td {
+          background-color: #fff;
+          padding: 4px;
+        }
+      }
+    }
+  }
+}

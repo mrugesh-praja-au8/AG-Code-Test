@@ -1,0 +1,15 @@
+.ar {
+  &-h {
+    font-size: 16px;
+    font-weight: 600;
+    color: #8854d0;
+  }
+  &-d {
+    font-size: 10px;
+    color: #898989;
+    & span {
+      font-weight: bold;
+      color: #000;
+    }
+  }
+}

@@ -1,0 +1,25 @@
+.home {
+  min-width: 100vw;
+  min-height: 100vh;
+  background-color: #d1d8e085;
+
+  &__head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    padding: 20px 30px;
+  }
+  .search {
+    padding: 0 30px;
+  }
+  .user_group {
+    display: flex;
+    padding: 30px;
+    overflow: auto;
+    padding-bottom: 10px;
+  }
+  .user_table {
+    padding: 0 30px;
+  }
+}
